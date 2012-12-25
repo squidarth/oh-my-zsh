@@ -109,3 +109,9 @@ case $state in
     esac
   ;;
 esac
+
+alias vs='vagrant ssh'
+alias vu='vagrant up'
+
+
+
